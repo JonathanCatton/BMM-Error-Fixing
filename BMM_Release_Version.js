@@ -12,9 +12,6 @@ function correctBroadMatchModified() {
   //Enter the name of the sheet you'd like to export the changes to. Case is important.
   var SHEET_NAME = 'Main'
   
-  //Enter the account ID of the account to check
-  var accountID = '721-753-2548'; //Av4home
-  
   //Change the variable below to NO to turn off report only mode or YES to turn it on.
   var reportOnlyMode = 'YES'
   
