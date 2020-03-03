@@ -8,9 +8,9 @@ function correctBroadMatchModified() {
   //Options Area/////////////////////////////////////////////////////////////////////////////////////////////////////////
   
   //Enter the URL of a google spreadsheet you'd like to export the changes to
-  var SPREADSHEET_URL = 'https://docs.google.com/spreadsheets/d/1eC60HT4i3cz3nVtmX4MzsD6zX7So1K0Eaq2bDPT_KbA/edit';
+  var SPREADSHEET_URL = 'INSERT SPREADSHEET URL HERE';
   //Enter the name of the sheet you'd like to export the changes to. Case is important.
-  var SHEET_NAME = 'Main'
+  var SHEET_NAME = 'INSERT SHEET NAME HERE'
   
   //Change the variable below to NO to turn off report only mode or YES to turn it on.
   var reportOnlyMode = 'YES'
